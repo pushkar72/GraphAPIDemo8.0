@@ -1,0 +1,5 @@
+https://learn.microsoft.com/en-us/graph/tutorials
+
+Delegated (user) authentication
+
+https://learn.microsoft.com/en-us/graph/sdks/create-client?tabs=csharp
